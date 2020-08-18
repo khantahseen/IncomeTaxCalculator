@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncomeTaxCalculator", "IncomeTaxCalculator.csproj", "{E74C21C7-CAA4-4C2F-8ED6-3F46C68A1884}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IncomeTaxCalculator", "IncomeTaxCalculator.csproj", "{E74C21C7-CAA4-4C2F-8ED6-3F46C68A1884}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IncomeTaxTest", "..\UnitTestProject1\IncomeTaxTest.csproj", "{BB553848-620A-469B-970B-860FE30FBE35}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E74C21C7-CAA4-4C2F-8ED6-3F46C68A1884}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E74C21C7-CAA4-4C2F-8ED6-3F46C68A1884}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E74C21C7-CAA4-4C2F-8ED6-3F46C68A1884}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB553848-620A-469B-970B-860FE30FBE35}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB553848-620A-469B-970B-860FE30FBE35}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB553848-620A-469B-970B-860FE30FBE35}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB553848-620A-469B-970B-860FE30FBE35}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\asus\\source\\repos\\IncomeTaxCalculator\\IncomeTaxCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Documents\\GitHub\\IncomeTaxCalculator\\IncomeTaxCalculator\\IncomeTaxCalculator.csproj",
       "projectName": "IncomeTaxCalculator",
-      "projectPath": "C:\\Users\\asus\\source\\repos\\IncomeTaxCalculator\\IncomeTaxCalculator.csproj",
+      "projectPath": "C:\\Users\\asus\\Documents\\GitHub\\IncomeTaxCalculator\\IncomeTaxCalculator\\IncomeTaxCalculator.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\asus\\source\\repos\\IncomeTaxCalculator\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Documents\\GitHub\\IncomeTaxCalculator\\IncomeTaxCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\asus\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -2,7 +2,7 @@
 
 namespace IncomeTaxCalculator
 {
-    class TaxCalculator
+    public class TaxCalculator
     {
         public double Salary{ get; set; }
         public int Age { get; set; }
@@ -14,11 +14,29 @@ namespace IncomeTaxCalculator
             Age = age;
 
         }
+        
+        private double _slabA = 0.05;
+        private double _slabB = 0.2;
+        private double _slabC = 0.3;
 
-        private double _slabA= 0.05;
-        private double _slabB =0.15;
-        private double _slabC =0.3;
-
+        public const string AgeLessThanZero = "Employeee age can not be less than 0 or 0";
+        public const string SalaryLessThanZero = "Salary can not be less than 0 or 0";
+        
+        public void IsAgeValid(int age)
+        {
+            if (age <= 0)
+            {
+                throw new ArgumentOutOfRangeException("age", age, AgeLessThanZero);
+            }
+        }
+        public void IsSalaryValid(double salary)
+        {
+            if (salary <= 0)
+            {
+                throw new ArgumentOutOfRangeException("salary", salary, SalaryLessThanZero);
+            }
+        }
+        
         public double CalculateTax()
         {
             if(Age>80)
@@ -30,10 +48,10 @@ namespace IncomeTaxCalculator
                 }
                 else if (Salary > 1000000)
                 {
-                    IncomeTax = 100000 + (Salary - 100000) * _slabC;
+                    IncomeTax = 100000 + (Salary - 1000000) * _slabC;
                     return IncomeTax;
                 }
-                else if (Salary > 500001 && Salary < 1000000)
+                else if (Salary > 500001 && Salary <= 1000000)
                 {
                     IncomeTax = 0.2 * Salary;
                     return IncomeTax;

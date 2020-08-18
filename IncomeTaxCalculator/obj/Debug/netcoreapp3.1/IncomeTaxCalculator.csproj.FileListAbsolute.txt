@@ -11,3 +11,16 @@ C:\Users\asus\source\repos\IncomeTaxCalculator\obj\Debug\netcoreapp3.1\IncomeTax
 C:\Users\asus\source\repos\IncomeTaxCalculator\obj\Debug\netcoreapp3.1\IncomeTaxCalculator.dll
 C:\Users\asus\source\repos\IncomeTaxCalculator\obj\Debug\netcoreapp3.1\IncomeTaxCalculator.pdb
 C:\Users\asus\source\repos\IncomeTaxCalculator\obj\Debug\netcoreapp3.1\IncomeTaxCalculator.genruntimeconfig.cache
+C:\Users\asus\Documents\GitHub\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\netcoreapp3.1\IncomeTaxCalculator.exe
+C:\Users\asus\Documents\GitHub\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\netcoreapp3.1\IncomeTaxCalculator.csprojAssemblyReference.cache
+C:\Users\asus\Documents\GitHub\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\netcoreapp3.1\IncomeTaxCalculator.AssemblyInfoInputs.cache
+C:\Users\asus\Documents\GitHub\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\netcoreapp3.1\IncomeTaxCalculator.AssemblyInfo.cs
+C:\Users\asus\Documents\GitHub\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\netcoreapp3.1\IncomeTaxCalculator.csproj.CoreCompileInputs.cache
+C:\Users\asus\Documents\GitHub\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\netcoreapp3.1\IncomeTaxCalculator.dll
+C:\Users\asus\Documents\GitHub\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\netcoreapp3.1\IncomeTaxCalculator.pdb
+C:\Users\asus\Documents\GitHub\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\netcoreapp3.1\IncomeTaxCalculator.deps.json
+C:\Users\asus\Documents\GitHub\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\netcoreapp3.1\IncomeTaxCalculator.runtimeconfig.json
+C:\Users\asus\Documents\GitHub\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\netcoreapp3.1\IncomeTaxCalculator.runtimeconfig.dev.json
+C:\Users\asus\Documents\GitHub\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\netcoreapp3.1\IncomeTaxCalculator.dll
+C:\Users\asus\Documents\GitHub\IncomeTaxCalculator\IncomeTaxCalculator\bin\Debug\netcoreapp3.1\IncomeTaxCalculator.pdb
+C:\Users\asus\Documents\GitHub\IncomeTaxCalculator\IncomeTaxCalculator\obj\Debug\netcoreapp3.1\IncomeTaxCalculator.genruntimeconfig.cache
